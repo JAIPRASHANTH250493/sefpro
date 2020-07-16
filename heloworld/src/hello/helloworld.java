@@ -7,6 +7,8 @@ public class helloworld {
 
 		for (int i = 0; i < 5; i++) {
 			System.out.println("haijai");
+			
+			System.out.println("commit 3");
 		}
 	}
 
